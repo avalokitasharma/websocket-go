@@ -1,6 +1,6 @@
-# Websockets demo in go
+# Websockets demo app in go
 
-A websocket demo app using
-Router: Pat
-Websocket: github.com/gorilla/websocket
+
+Router: Pat  
+Websocket: github.com/gorilla/websocket   
 Template: github.com/CloudyKit/jet (SSR)
